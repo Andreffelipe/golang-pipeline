@@ -7,7 +7,7 @@ import (
 )
 
 func Hello() string {
-	return "Hello, welcome to gpher"
+	return "Hello, welcome to gopher"
 }
 
 func main() {
